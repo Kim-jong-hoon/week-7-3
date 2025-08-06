@@ -1,4 +1,5 @@
 # 3일차 : 경로 탐색
+[day3_lecture.pdf](https://github.com/user-attachments/files/21610216/day3_lecture.pdf)
 
 ## 1교시
 
